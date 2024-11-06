@@ -10,7 +10,7 @@ spec:
   template:
     metadata:
       labels:
-        app: my-deployment
+        app: my-app
     spec:
       containers:
       - image: nginx:latest
